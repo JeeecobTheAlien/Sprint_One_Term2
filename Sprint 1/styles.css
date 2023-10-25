@@ -1,0 +1,55 @@
+body {
+    background-color: #041e27;
+    text-align: center;
+}
+h1 {
+    color: white;
+    text-size-adjust: 24;
+    text-align: center;
+}
+h2 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+h4 {
+    color: white;
+}
+h5 {
+    color: white;
+}
+p {
+    color: white;
+}
+img {
+    background-image: url(ResturantDiningArea.webp);
+    background-position: middle, top;
+}
+#div1 {
+    background: url(ResturantDiningArea.webp);
+    background-size: 1440px, 1000px;
+    background-repeat: no-repeat;
+    opacity: 1;
+  }
+#div2 {
+    background: url(ResturantMenu.jpg);
+    background-size: 1440px, 1000px;
+    background-repeat: no-repeat;
+    opacity: 1;
+}
+#div3 {
+    background: url(FaceLogo.jpeg);
+    background-size: 100px, 100px;
+    background-repeat: no-repeat;
+    text-align: left;
+}
+
+#button1 {
+    background-color: rgb(121, 77, 11);
+    color: white;
+    
+}
+button {
+    text-align: right;
+}
